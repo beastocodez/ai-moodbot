@@ -56,7 +56,7 @@ async function sendMessage() {
             {
                 method: "POST",
                 headers: { 
-                    "Authorization": "Bearer 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",
+                    "Authorization": "Bearer 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",
                     "Content-Type": "application/json" 
                 },
                 body: JSON.stringify({
